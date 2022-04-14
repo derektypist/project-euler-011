@@ -25,6 +25,8 @@ The aim of the project is to find the greatest product of four adjacent numbers 
 01 70 54 71 83 51 54 69 16 92 33 48 61 43 52 01 89 19 67 48
 `
 
+Information at [Project Euler 011](https://projecteuler.net/problem=11)
+
 ## UX
 
 **User Stories**
@@ -42,10 +44,25 @@ The function `largestGridProduct(arr)` returns a number, where arr is a 2-Dimens
 
 Allows the user to view the 20x20 grid as well as the largest product of the 20x20 grid.
 
-## Technlogies
+## Technologies
 
 Uses HTML5, CSS3, JavaScript, Bootstrap 5.1.3 and Google Fonts.
 
 ## Testing
 
 Ensure all user stories have been met.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/project-euler-011) at the main branch.
+
+## Credits
+
+### Content
+
+Written by me.
+
+### Acknowledgements
+
+- [Project Euler](https://www.projecteuler.net)
+- [FreeCodeCamp](https://www.freecodecamp.org)
