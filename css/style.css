@@ -1,0 +1,38 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
+
+/* Body */
+body {
+    font-family: "Roboto", Arial, Verdana, sans-serif;
+    padding: 1rem;
+}
+
+/* Subtitle */
+h2 {
+    color: purple;
+}
+
+/* Instructions */
+.instructions {
+    font-size: 1.25rem;
+}
+
+/* Digits */
+.digits {
+    font-family: "Roboto Mono", monospace;
+    padding: 1.3rem;
+    font-size: 0.75rem;
+    color: #D2386C;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #D2386C;    
+}
+
+a:hover {
+    text-decoration: none;
+    color: #34568B;
+}
+
