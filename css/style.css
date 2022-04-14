@@ -36,3 +36,9 @@ a:hover {
     color: #34568B;
 }
 
+/* Array Information */
+#arrinfo {
+    padding: 1.2rem;
+    font-size: 1.5rem;
+    color: #009B77;
+}
