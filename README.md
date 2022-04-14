@@ -57,7 +57,7 @@ As a user, I expect the supplied array to return 70600674.
 
 **Information Architecture**
 
-The function `largestGridProduct(arr)` returns a number, where arr is a 2-Dimensional Array of numbers.
+The function `largestGridProduct(arr)` returns a number, where `arr` is a 2-Dimensional Array of numbers.
 
 ## Features
 
